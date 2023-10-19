@@ -327,7 +327,8 @@ Making this project to ambitious I got to understand what Crunches are, lesson l
 I got confirmation that project was uploaded successfully but it is not visible in my spatial worlds catalogue.
 ![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/bbeb6dcc-722d-4533-abb6-ac53df07e8ab)
 ![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/159debc7-b919-46e6-8cbd-3c80034eb7fa)
-![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/0820953d-a74d-4137-afdd-10532006f08d)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/e3474bf5-ed13-447b-8223-ea90629092e5)
+
 
 ### Solution: 
 Delete XR, optimize the assets for spatial
