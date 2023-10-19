@@ -125,77 +125,100 @@ Nevertheless, VRChat is not devoid of challenges. Its open and unrestrictive env
 
 In summary, these platforms collectively contribute to the evolving realm of virtual experiences and user-generated content. Each platform possesses unique strengths and faces distinct challenges, reflecting the dynamic nature of the virtual world landscape. As the virtual world continues to mature, these platforms will play pivotal roles in shaping the future of immersive experiences and user-generated content.
 
-**2. Project Documentation**
+# **2. Project Documentation**
 
 "Post communism neighbourhood experience (My Virtual World)"
 
-**Introduction**** :**
+## **Introduction:**
 
 The first idea that came up with was to re-create soviet style neighbourhood, I had it in my mind for a while, in form of Garry's mod map as I used to spend a lot of time there with my friends before the VR era, the concept of the game is similar to the VR worlds platform's. If will be able to accommodate time to develop this project, adapt it and do the polishing, I would like to convert it to the game map and publish on Steam's workshop.
 
 ## **Inspiration:**
 
-![](RackMultipart20231019-1-7oicog_html_c6239914fc6df2ac.jpg) ![](RackMultipart20231019-1-7oicog_html_167e5575b41a5194.png)The atmosphere of the map is based on nostalgic memories from my childhood, and how it might look during my parent's times as when I was growing, the climate did also, now it's more friendly and colourful, mixed with the modern architecture.
-
-![](RackMultipart20231019-1-7oicog_html_c36ecc1d226fe252.jpg)
+The atmosphere of the map is based on nostalgic memories from my childhood, and how it might look during my parent's times as when I was growing, the climate did also, now it's more friendly and colourful, mixed with the modern architecture.
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/12ba1fe9-6c4a-4d28-946a-cb1902d07907)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/a669c33d-66a8-4767-befc-524485304a05)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/5c648d4e-3883-4dd4-82a7-62b1879ead88)
 
 #
 
 
 # **2.1. Screenshots of the Project:**
 
-## ![](RackMultipart20231019-1-7oicog_html_137b578ffd0c6b8e.png)Screenshot 1: Muse (beta) texture generation
+## Screenshot 1: Muse (beta) texture generation
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/c80115b4-b5c1-49c6-90bc-041af6be1dea)
 
 I tried to use the beta feature to generate the texture, there was few decent results, but I decided to go with free assets from the store. This is interesting and I'm sure that it will get better and in the near future there might be no need for assets store as everyone will be able to generate content for themselves, this just one of the tools that will become available.
 
-## Screenshot 2: Muse (beta) texture generation ![](RackMultipart20231019-1-7oicog_html_1d4760f98ce8151a.png)
+## Screenshot 2: Muse (beta) texture generation
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/0086f92f-d7d7-4d87-98a7-38bbf2d38ca3)
 
 Decent looking material of the ground covered with snow.
 
-## ![](RackMultipart20231019-1-7oicog_html_e01ecc32a93f2ba.png)Screenshot 3: Baking light problem
+## Screenshot 3: Baking light problem
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/9a07467e-d7ca-420b-8468-64539ae6e40d)
 
 Seems something is causing problems.
 
-## Screenshot 4: Baking light solution ![](RackMultipart20231019-1-7oicog_html_51b91b8f9f767952.png)
+## Screenshot 4: Baking light solution
 
 ##
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/97ca4226-931d-4f49-8748-8cbfc5c6f159)
 
 Turing off directional light solved the problem.
 
 ## Screenshot 5: Road builder
 
-![](RackMultipart20231019-1-7oicog_html_324775b5f7c90b2e.png)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/ab3f8742-cffd-49e5-b0a9-6a7eafb30cea)
+
 
 I was trying out the [EasyRoads3D](https://assetstore.unity.com/packages/3d/characters/easyroads3d-free-v3-987), it's quite nice, reminds me the building system from the Cities Skylines with makes it intuitive. Should adapt to the terrain. Although free version is very limited.
 
-## ![](RackMultipart20231019-1-7oicog_html_ed43fa16f106a98e.png) ![](RackMultipart20231019-1-7oicog_html_f68e54b90a5edf9f.png) ![](RackMultipart20231019-1-7oicog_html_7725c49acee1d0a4.png)Screenshots 6: Problems with materials
+## Screenshots 6: Problems with materials
 
-![](RackMultipart20231019-1-7oicog_html_bc664089bd7b7484.png) ![](RackMultipart20231019-1-7oicog_html_827f279ef7b21e13.png) ![](RackMultipart20231019-1-7oicog_html_569815e4f3068337.png)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/289e5ba3-4c29-42c2-b799-abe8976ffb39)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/61654ef6-4d73-41b0-aeb4-ec561dfae6ca)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/82c11041-63ad-40f9-ac54-44adbb4d4e52)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/7c5a6e5c-48be-4338-ab60-d48e9bfb0b2c)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/de573342-5918-4d56-8265-73c14340d18e)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/c8cfaa55-6207-4766-b8ca-f099680a3c4a)
 
 I had to get rid of many assets, including the roads, for some of them I had to change materials and texture it by hand. There was not enough time to bother with exact reason why it didn't work as expected. Some worked when loaded and broke after saving, some didn't work at all. I encountered many problems with converting it to URP.
 
-## ![](RackMultipart20231019-1-7oicog_html_3adc9c214722b660.png) ![](RackMultipart20231019-1-7oicog_html_fff90a24fc5e67a0.jpg)Screenshots 7: Terrain and Particles
+## Screenshots 7: Terrain and Particles
+
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/6639f6e0-c675-446d-a008-e1d794f8cf82)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/e4eab9bb-8d71-4d7f-b816-54502976f493)
 
 I used [Unity](https://assetstore.unity.com/publishers/1) Terrain Tool to model the ground, got some particle assets from the store to make the scene look more realistic. Particles are not perfect, probably better solution would be to keep it smaller and attached to the player instead of scaling it to the whole scene.
 
-## ![](RackMultipart20231019-1-7oicog_html_b6f37764a2e4ef18.png) ![](RackMultipart20231019-1-7oicog_html_4c14f3ac043736d2.png) ![](RackMultipart20231019-1-7oicog_html_5f815593a0bde83.png)Screenshots 8: Project is too heavy to build
+## Screenshots 8: Project is too heavy to build
 
-A ![](RackMultipart20231019-1-7oicog_html_6edfc180d5218f2e.png)
- fter 14 hours of waiting, I decided to terminate the process. Solution was to delete all unused assets, tidy the folders and files and changing the project settings to allow heavier usage of the hardware. Usage texture of compression for the development builds to make it a bit quicker. I reduced project size from ~10Gb to ~6Gb. Built .exe is around 1Gb.
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/bc1a0bb8-9b53-4368-bfd5-2d5f3a9d06ed)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/cee96eaa-76b0-428b-b821-e13bb745fc2c)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/c26ede29-492f-48dd-b286-b9e22f0e8b12)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/397bdad0-4517-4b93-97d6-139e40d972cc)
 
-## ![](RackMultipart20231019-1-7oicog_html_c80798f6e913b9c7.png)Screenshots 9: Light baking problems once again.
 
-![](RackMultipart20231019-1-7oicog_html_a11b0d7560bcb155.png)
+After 14 hours of waiting, I decided to terminate the process. Solution was to delete all unused assets, tidy the folders and files and changing the project settings to allow heavier usage of the hardware. Usage texture of compression for the development builds to make it a bit quicker. I reduced project size from ~10Gb to ~6Gb. Built .exe is around 1Gb.
+
+## Screenshots 9: Light baking problems once again.
+
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/89ba343b-cd05-4a5c-baf1-89aa4906ef34)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/bb81d42d-072c-49f4-abd1-d71f806f6777)
 
 As Time is running out, I decided to get rid of the above light and move the other one, it's not casting the shadow properly now but it was important to lit this area.
 
-## ![](RackMultipart20231019-1-7oicog_html_c42554b3894581a5.jpg) ![](RackMultipart20231019-1-7oicog_html_67aacad14a67ebe.png)Screenshots 10: Audio and text
+## Screenshots 10: Audio and text
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/77e58da8-4328-450f-86a7-7c2712d39829)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/66b99fc3-a0d6-4d2e-ac57-04342c5b7633)
 
 Audio I set to simulate 3D, It's getting louder when getting close to it, there are also some distortion effects applied. Text uses custom font, I had to create TextMeshPro Asset for that, used some gradient colours to make it more realistic.
 
 ## Screenshots 9: Unity Muse Assistant (Chat- GPT based) [beta].
 
-![](RackMultipart20231019-1-7oicog_html_cb1d1aa33038a278.png)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/7d508fdd-8de9-474d-8690-dfd7ae616e60)
+
 
 Not perfect but sometimes helpful. It's well known ChatGPT trained on Unity's documentation. Currently its in closed beta ([Unity Beta Program](https://create.unity.com/ai-beta)).
 
@@ -287,22 +310,36 @@ Next steps: Do proper optimalization of the project. (out of time to do so)
 
 # **4. Spatial 'Issues':**
 
-![](RackMultipart20231019-1-7oicog_html_454d951ae23615d1.png) ![](RackMultipart20231019-1-7oicog_html_34d2943d9233baa4.png)Issue 1: Project size is way to big.
+## Issue 1:
+Project size is way to big.
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/a672156a-9e0b-4706-a7d2-f4a5f366e765)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/ffc4dfac-7d82-43d0-a3f8-77bd3a508763)
 
-Solution: Reduce project by deleting vehicles, fences, garages, changing the music to single compressed track
 
-Comment: Making this project to ambitious I got to understand what Crunches are, lesson learned.
 
-![](RackMultipart20231019-1-7oicog_html_328586fa4a0bf7c5.png)I ![](RackMultipart20231019-1-7oicog_html_84190d416dfc3a9f.png)
- ssue 2: I got confirmation that project was uploaded successfully but it is not visible in my spatial worlds catalogue.
+### Solution:
+Reduce project by deleting vehicles, fences, garages, changing the music to single compressed track
 
-![](RackMultipart20231019-1-7oicog_html_b571968925900b09.png)
+Comment:
+Making this project to ambitious I got to understand what Crunches are, lesson learned.
 
-Solution: Delete XR, optimize the assets for spatial
+## Issue 2: 
+I got confirmation that project was uploaded successfully but it is not visible in my spatial worlds catalogue.
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/bbeb6dcc-722d-4533-abb6-ac53df07e8ab)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/159debc7-b919-46e6-8cbd-3c80034eb7fa)
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/0820953d-a74d-4137-afdd-10532006f08d)
 
-Issue 2: I got confirmation that project was uploaded successfully but it is not visible in my spatial worlds catalogue. Tried few times, got rid of particles/terrain, same issue persists.
+### Solution: 
+Delete XR, optimize the assets for spatial
 
-UPDATE: One of the versions came through, the one without the terrain.
+## Issue 2.5:
+I got confirmation that project was uploaded successfully but it is not visible in my spatial worlds catalogue. Tried few times, got rid of particles/terrain, same issue persists.
+
+Update:
+One of the versions came through, the one without the terrain.
+
+![image](https://github.com/sebolsita/Individual-Assignment-2-Software-Management-/assets/146569314/a1734301-492d-489f-9639-e0b8f215cdae)
+
 
 # **5. Reflection**
 
