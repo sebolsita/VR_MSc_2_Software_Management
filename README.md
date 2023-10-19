@@ -44,6 +44,3 @@ Gdynia small hill on the neighbourhood (Google Maps)
 Gdynia neighbourhood during winter (Blogspot) *
 Gdańsk 1990 (Wiki)	
 *Licensed resources used for educational purposes only.
-
-Accept a pull request made on your repository made by another student. 
-Upload a build of your virtual world project application under the releases section of your GitHub repository.  
