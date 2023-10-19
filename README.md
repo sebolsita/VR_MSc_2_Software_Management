@@ -23,7 +23,7 @@
 
 **Name: Soviet\_hood\_buchered\_version Link: [Spatial.io](https://www.spatial.io/s/Soviet_hood_spatial_ssssssssssssss-65294903ec49d00bd831e01d?share=0)**
 
-## **Assets:** ([assetstore.unity.com](/C:/Users/sebol/OneDrive/Pulpit/REPORT_ASSIGMENT_VR_1/assetstore.unity.com)):
+## **Assets:** ([assetstore.unity.com](https://assetstore.unity.com/)):
 
 -VIS GAMES "Kiosk"
 
