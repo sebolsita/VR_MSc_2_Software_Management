@@ -1,56 +1,313 @@
-# Individual-Assignment-2-Software-Management-
+# **Individual Assignment 1: [Virtual Worlds]**
+### Sebastian Sitarski
 
-File Naming Convention and What to Submit
-The written submission is needed to build your portfolio and for us to show the external marker what the work was done on.
+### 2218833
 
-You need to submit:
+### 13.10.2023
 
-Cover sheet - <surname>_<student number>_<SoftwareManagement>_<"CoverSheet">.doc/.pdf
-Documentation - <surname>_<student number>_<SoftwareManagement>_<"Documentation">.doc/.pdf
-SWOT Report - <surname>_<student number>_<SoftwareManagement>_<"SWOT">.doc/.pdf
-Reflections - <surname>_<student number>_<SoftwareManagement>_<"Reflections">.doc/.pdf
- 
+### Unity 22.3.5.f1
 
-Cover sheet:
-Your first and last name
-Your student number
-Submission date
-The assignment title
-A list of all file names submitted
-Link to your GitHub
- 
+## **File names:**
 
-Documentation:
-Screenshots of the your Kanban throughout the week - include some explaination of the steps you have taken
-Screenshot of your Commits
- 
+**Cover sheet – Sitarski\_218833\_VirtualWorlds\_CoverSheet.pdf**
 
-SWOT Report:
-The name of the program and company
-Introduction to the business
-A populated SWOT diagram
-Explanations of the points
-Recommendations 
-References
- 
+**Documentation - Sitarski\_218833\_VirtualWorlds\_Documentation.pdf**
 
-Your Reflections:
-Reflection - this can be as long as you need to comment on your work, but we would usually like to see around a page of A4 (approx. 500 words) for your reflections.
- 
+**Report and Reflections - Sitarski\_218833\_VirtualWorlds\_Report&Reflections.pdf**
 
-GitHub Tasks
-Create a repository on GitHub.com Clone it to your machine. 
-Add your Virtual World project to the repository. Make a commit and push it to the main branch. 
-Add a new text file called “Students” In this file write your name and student number. Make a commit and push it to the main branch. 
-Add a text file to the project. Commit and push the added file to the main branch. Now delete the file, commit and push to the main branch. Revert this commit so that the deleted file is restored.  
-Create a new branch called Alpha and switch to that branch. 
-Add a file to the Alpha branch, then switch back to the main branch. 
-Update your git Readme file with information from your assignment 1 word document. 
-Add one of your fellow students as a collaborator to your GitHub project. 
-Create an Issue on another student’s GitHub repository.  
-Resolve a GitHub Issue that a student created on your repository. 
-Clone a student’s repository that you have been added to as a collaborator. 
-Create a new branch on your collaborators’ repository. Add your name and student to the Students.txt text file. Commit and push this change. 
-Create a pull request on GitHub for adding your name to the Students.txt file. 
-Accept a pull request made on your repository made by another student. 
-Upload a build of your virtual world project application under the releases section of your GitHub repository.  
+**Whole PDF - Sitarski\_218833\_VirtualWords\_WholePDF.pdf**
+
+**Build - Sitarski\_218833\_Builds.zip (.exe .apk)**
+
+## **Spatial Spaces:**
+
+**Name: Soviet\_hood\_buchered\_version Link: [Spatial.io](https://www.spatial.io/s/Soviet_hood_spatial_ssssssssssssss-65294903ec49d00bd831e01d?share=0)**
+
+## **Assets:** ([assetstore.unity.com](/C:/Users/sebol/OneDrive/Pulpit/REPORT_ASSIGMENT_VR_1/assetstore.unity.com)):
+
+-VIS GAMES "Kiosk"
+
+-VIS GAMES "PBR Sculpture"
+
+-VLADISLAV SIMAKOV "Street Vehicles"
+
+-GAME STUFF STUDIO "Urban building"
+
+-GAME STUFF STUDIO "Old building NYC #3"
+
+-JN 3D "ZIL 130 Military truck"
+
+-ALIOSA "Creepy headless statue"
+
+-UNITY TECHNOLOGIES "Terrain Sample Asset Pack"
+
+-HIPERNT "Realistic Pine Tree Pack"
+
+-VOYNOV\_V "Transformer substation"
+
+-DORLAK\_1989 "Transformer box"
+
+-AEROLIFE "Apartment Building"
+
+-WHITEXOPC "Brick garages"
+
+-RPGWHITELOCK "AllSky Free - 10 Sky"
+
+-RCC DESIGN "Hatchback and Sedan"
+
+-WHITEXOPC "Realistic Fences Pack"
+
+-WISSAM EL HAJJ "3D Game Props"
+
+-MADMEDICSOFT "Russian buildings pack"
+
+-RETROVITAS "Realistic Snow and Fog FX" \*
+
+-IOAN STAN "Old Radio"
+
+## **Resources:**
+
+Unity - Muse Chat ([beta](https://muse.unity.com/en))
+
+Unity - Muse Texture Generator ([beta](https://discussions.unity.com/))
+
+Fist Full of Shrimp ([YouTube](https://www.youtube.com/watch?v=Jvb7sAR2Tmk)) – "Unity VR Basics 2023 – Continuous Movement"
+
+Russian Doomer Music Vol.4 ([Soundcloud playlist](https://soundcloud.com/taftn4txaplh/russian-doomer-music-vol4-help-me-1)) – Music by [МолчатДома](https://en.wikipedia.org/wiki/Molchat_Doma)\*
+
+Don Marciano – Don Graffiti ([Font](https://www.dafont.com/don-graffiti.font))
+
+## **Photos:**
+
+Gdynia small hill on the neighbourhood ([Google Maps](https://www.google.com/maps/@54.5458758,18.4505647,3a,84.4y,227.05h,102.51t/data=!3m9!1e1!3m7!1syP1ZjxwoMCkodLFIFgodvQ!2e0!7i13312!8i6656!9m2!1b1!2i39?entry=ttu))
+
+Gdynia neighbourhood during winter ([Blogspot](http://3.bp.blogspot.com/-Vj_epw_7ALo/UuFjkG9aMRI/AAAAAAAAKmo/XO4m1ZH1dg0/s1600/DSC_0157.JPG)) \*
+
+Gdańsk 1990 ([Wiki](https://upload.wikimedia.org/wikipedia/commons/d/d2/Gdansk_Zaspa_church%2C_17.8.1990.jpg))
+
+**\*Licensed resources used for educational purposes only.**
+
+# **VR Platforms Overview:**
+
+The realm of virtual reality (VR) and augmented reality (AR) has ushered in a new era of immersive experiences. A diverse range of platforms and applications has emerged, each with distinct characteristics, to facilitate the creation, exploration, and sharing of virtual worlds. This overview will provide a detailed analysis of key players in this evolving landscape.
+
+## **S&box (**[**sbox.facepunch.com**](https://sbox.facepunch.com/news)**):**
+
+S&box represents a community-driven endeavour guided by the experienced hands of Garry Newman and Facepunch Studios, renowned for their work on "Rust." This project holds significant promise, boasting native VR support, thus positioning itself for immersive virtual reality experiences. Notably, S&box utilizes the Source 2 engine, a substantial technological foundation also employed in titles like "Half-Life: Alyx." These aspects underscore the platform's commitment to delivering high-quality VR adventures.
+
+It is crucial to acknowledge that S&box is currently in the developmental phase, with the full release projected to be several years away. This extended development timeline underscores the platform's dedication to delivering a refined and feature-rich product. The incorporation of native VR support positions S&box as a platform poised to make a substantial impact, supported by an enthusiastic community and the expertise of Facepunch Studios.
+
+## **Roblox (**[**roblox.com**](https://www.roblox.com/)) **:**
+
+Roblox is a major player in the virtual world landscape, boasting a colossal user base of over 150 million monthly active players. This platform provides a user-friendly environment for game development, effectively fostering creativity and interaction among its community of creators. Particularly noteworthy is its recent integration of AI-powered asset creation, streamlining the game development process.
+
+However, the extensive and diverse user base brings challenges, primarily related to ensuring a secure environment, particularly for younger users. Content moderation remains an ongoing imperative.
+
+## **Mozilla Hubs (**[**hubs.mozilla.com**](https://hubs.mozilla.com/)**):**
+
+Mozilla Hubs distinguishes itself by offering a web-based, easily accessible platform that operates via standard web browsers. It is expressly designed to facilitate collaboration, positioning it as an optimal choice for meetings, social interactions, and educational experiences within virtual spaces. The platform's cross-platform compatibility expands its user base and obviates the need for specialized VR hardware.
+
+Nevertheless, Mozilla Hubs confronts the challenge of increasing its user base to rival more established platforms, necessitating feature enhancements and strategic partnerships.
+
+## **Spatial (**[**spatial.io**](https://www.spatial.io/)**):**
+
+Spatial mirrors Mozilla's accessibility approach by eliminating the prerequisite for high-end VR hardware. Users can effortlessly create and share virtual spaces through web browsers, rendering it attractive to a more extensive audience. Its core competency lies in facilitating collaboration, making it an invaluable tool for meetings, remote teamwork, and educational applications. The platform's intuitive design and user-friendly features streamline the process of creating and sharing virtual spaces.
+
+While it excels in simplicity and cross-platform compatibility, further feature expansion may be instrumental in attracting a more diverse range of users and content creators.
+
+## **VRChat (**[**hello.vrchat.com**](https://hello.vrchat.com/)**):**
+
+VRChat is a distinctive platform acknowledged for its diverse and vibrant community. It empowers users to craft and share their virtual spaces and avatars, resulting in a rich tapestry of user-generated content. VRChat serves as a focal point for those seeking immersion in a constantly evolving range of experiences.
+
+Nevertheless, VRChat is not devoid of challenges. Its open and unrestrictive environment has raised concerns regarding user behaviour. While it encourages creative expression, it has also given rise to apprehensions concerning potential exposure to objectionable or inappropriate content or behaviour. The platform has implemented reporting and moderation systems; however, the sheer volume of user-generated content and the real-time nature of interactions pose an ongoing challenge. Striking a delicate equilibrium between creative freedom and the establishment of a safe and respectful community remains a perpetual endeavour.
+
+## **Summary:**
+
+In summary, these platforms collectively contribute to the evolving realm of virtual experiences and user-generated content. Each platform possesses unique strengths and faces distinct challenges, reflecting the dynamic nature of the virtual world landscape. As the virtual world continues to mature, these platforms will play pivotal roles in shaping the future of immersive experiences and user-generated content.
+
+**2. Project Documentation**
+
+"Post communism neighbourhood experience (My Virtual World)"
+
+**Introduction**** :**
+
+The first idea that came up with was to re-create soviet style neighbourhood, I had it in my mind for a while, in form of Garry's mod map as I used to spend a lot of time there with my friends before the VR era, the concept of the game is similar to the VR worlds platform's. If will be able to accommodate time to develop this project, adapt it and do the polishing, I would like to convert it to the game map and publish on Steam's workshop.
+
+## **Inspiration:**
+
+![](RackMultipart20231019-1-7oicog_html_c6239914fc6df2ac.jpg) ![](RackMultipart20231019-1-7oicog_html_167e5575b41a5194.png)The atmosphere of the map is based on nostalgic memories from my childhood, and how it might look during my parent's times as when I was growing, the climate did also, now it's more friendly and colourful, mixed with the modern architecture.
+
+![](RackMultipart20231019-1-7oicog_html_c36ecc1d226fe252.jpg)
+
+#
+
+
+# **2.1. Screenshots of the Project:**
+
+## ![](RackMultipart20231019-1-7oicog_html_137b578ffd0c6b8e.png)Screenshot 1: Muse (beta) texture generation
+
+I tried to use the beta feature to generate the texture, there was few decent results, but I decided to go with free assets from the store. This is interesting and I'm sure that it will get better and in the near future there might be no need for assets store as everyone will be able to generate content for themselves, this just one of the tools that will become available.
+
+## Screenshot 2: Muse (beta) texture generation ![](RackMultipart20231019-1-7oicog_html_1d4760f98ce8151a.png)
+
+Decent looking material of the ground covered with snow.
+
+## ![](RackMultipart20231019-1-7oicog_html_e01ecc32a93f2ba.png)Screenshot 3: Baking light problem
+
+Seems something is causing problems.
+
+## Screenshot 4: Baking light solution ![](RackMultipart20231019-1-7oicog_html_51b91b8f9f767952.png)
+
+##
+
+Turing off directional light solved the problem.
+
+## Screenshot 5: Road builder
+
+![](RackMultipart20231019-1-7oicog_html_324775b5f7c90b2e.png)
+
+I was trying out the [EasyRoads3D](https://assetstore.unity.com/packages/3d/characters/easyroads3d-free-v3-987), it's quite nice, reminds me the building system from the Cities Skylines with makes it intuitive. Should adapt to the terrain. Although free version is very limited.
+
+## ![](RackMultipart20231019-1-7oicog_html_ed43fa16f106a98e.png) ![](RackMultipart20231019-1-7oicog_html_f68e54b90a5edf9f.png) ![](RackMultipart20231019-1-7oicog_html_7725c49acee1d0a4.png)Screenshots 6: Problems with materials
+
+![](RackMultipart20231019-1-7oicog_html_bc664089bd7b7484.png) ![](RackMultipart20231019-1-7oicog_html_827f279ef7b21e13.png) ![](RackMultipart20231019-1-7oicog_html_569815e4f3068337.png)
+
+I had to get rid of many assets, including the roads, for some of them I had to change materials and texture it by hand. There was not enough time to bother with exact reason why it didn't work as expected. Some worked when loaded and broke after saving, some didn't work at all. I encountered many problems with converting it to URP.
+
+## ![](RackMultipart20231019-1-7oicog_html_3adc9c214722b660.png) ![](RackMultipart20231019-1-7oicog_html_fff90a24fc5e67a0.jpg)Screenshots 7: Terrain and Particles
+
+I used [Unity](https://assetstore.unity.com/publishers/1) Terrain Tool to model the ground, got some particle assets from the store to make the scene look more realistic. Particles are not perfect, probably better solution would be to keep it smaller and attached to the player instead of scaling it to the whole scene.
+
+## ![](RackMultipart20231019-1-7oicog_html_b6f37764a2e4ef18.png) ![](RackMultipart20231019-1-7oicog_html_4c14f3ac043736d2.png) ![](RackMultipart20231019-1-7oicog_html_5f815593a0bde83.png)Screenshots 8: Project is too heavy to build
+
+A ![](RackMultipart20231019-1-7oicog_html_6edfc180d5218f2e.png)
+ fter 14 hours of waiting, I decided to terminate the process. Solution was to delete all unused assets, tidy the folders and files and changing the project settings to allow heavier usage of the hardware. Usage texture of compression for the development builds to make it a bit quicker. I reduced project size from ~10Gb to ~6Gb. Built .exe is around 1Gb.
+
+## ![](RackMultipart20231019-1-7oicog_html_c80798f6e913b9c7.png)Screenshots 9: Light baking problems once again.
+
+![](RackMultipart20231019-1-7oicog_html_a11b0d7560bcb155.png)
+
+As Time is running out, I decided to get rid of the above light and move the other one, it's not casting the shadow properly now but it was important to lit this area.
+
+## ![](RackMultipart20231019-1-7oicog_html_c42554b3894581a5.jpg) ![](RackMultipart20231019-1-7oicog_html_67aacad14a67ebe.png)Screenshots 10: Audio and text
+
+Audio I set to simulate 3D, It's getting louder when getting close to it, there are also some distortion effects applied. Text uses custom font, I had to create TextMeshPro Asset for that, used some gradient colours to make it more realistic.
+
+## Screenshots 9: Unity Muse Assistant (Chat- GPT based) [beta].
+
+![](RackMultipart20231019-1-7oicog_html_cb1d1aa33038a278.png)
+
+Not perfect but sometimes helpful. It's well known ChatGPT trained on Unity's documentation. Currently its in closed beta ([Unity Beta Program](https://create.unity.com/ai-beta)).
+
+# **3. Test Builds:**
+
+## Test Build 1:
+
+10.10.23 15:39
+
+Main goal of this build was to just get it running, I butchered project from many assets to achieve that.
+
+Performance: It works. Glitching textures, missing assets, only turning is possible. LOD of the terrain is too strict.
+
+Next Steps: Add missing assets, add teleportation, add continuous movement, play with settings of the terrain to make it look better.
+
+## Test Build 2:
+
+11.10.23 04:45
+
+Performance: Teleporting and movement are working, but it doesn't respect the terrain. Some of the assets are poorly positioned. Light is not visible in one place. Spawn is in the air. Some of the assets doesn't have the box colliders making it possible to noclip. Terrain is looking fine.
+
+Next Steps: Fix the continuous movement, change the steering to match typical controller. Fix the positioning of assets and figure out the light. Add missing box colliders. Move the spawn point. Add particles to mimic the snow and fog. Add sound emitter. Add borders so it's not possible to fall from the map.
+
+## Test Build 3:
+
+11.10.23 22:10
+
+Performance: Spawn is on the ground as expected. Particles are working but snow is way too big, and fog is moving with the headset which doesn't look great. Lightning is fine. Sound is working. Borders working.
+
+Next Steps: Add text with the description of how to move around. Add radio model for the sound emitter. Make the text and audio more realistic; 3D audio with distortion effects and graffiti font for the text to make it blend with the aesthetics. Add more details to the terrain. Fix particles. Also make final build Spatial-able.
+
+## Test Build 4:
+
+12.10.23 01:47
+
+Performance: As expected, I noticed that text instructions are wrong way as left is right, right is left. Didn't fix the fog due to time limitations, snow is okay but could be improved.
+
+Next Steps: Try to bake better light. Fix the instructions.
+
+## Test Build 5:
+
+12.10.23 21:01
+
+Performance: As expected, but the light on the long, tall building is glitched again, not sure why it seemed alright in the scene view; after loading project again I can see the issue, maybe I didn't save after last baking. Some of the models are still without the box colliders but it will need to stay that way due to the time limits.
+
+Next Steps: Fix the light. Make the final version without obvious glitches visible due to the time limits. Prepare the Spatial version.
+
+## Test Build 6:
+
+12.10.23 23:07
+
+Performance: As expected. This will be the final windows release for this assignment.
+
+Next Steps: Make one more build ~~with different steering for moviemaking purposes. Possibly try higher FOV. And do separate projects for Spatial, Mozilla and~~ android.
+
+## Test Build 7 apk:
+
+13.10.23 05:20
+
+Performance: Project built successful, app is not working, loading and going back to menu.
+
+Next steps: Check the settings of the project
+
+$$ Test Build 8 apk:
+
+13.10.23 11:24
+
+Performance: Loading and going back to menu, same issue.
+
+Next steps: Check the settings of the project, change Scripting Backend from Mono to IL2CPP and setting the Target Architecture to ARM64.
+
+## Test Build 9 apk:
+
+13.10.23 11:44
+
+Performance: App is working now, frame rate is poor, movement seems to glitch in one part of the map as picture is starting to jump.
+
+Next steps: It's probably lagging because I didn't change the particle system to mobile version, and not used the low poly version of the buildings as it's available at the assets store. Possibly more optimalization would be required, like LOD of the terrain.
+
+## Test Build 10 apk:
+
+13.10.23 11:49
+
+Got rid of the particles and part of the fence to test the frame rate.
+
+Performance: Frame rate is a little bit better, still not great, looks like around 20fps. No more movement glitching. Music is not playing.
+
+Next steps: Do proper optimalization of the project. (out of time to do so)
+
+# **4. Spatial 'Issues':**
+
+![](RackMultipart20231019-1-7oicog_html_454d951ae23615d1.png) ![](RackMultipart20231019-1-7oicog_html_34d2943d9233baa4.png)Issue 1: Project size is way to big.
+
+Solution: Reduce project by deleting vehicles, fences, garages, changing the music to single compressed track
+
+Comment: Making this project to ambitious I got to understand what Crunches are, lesson learned.
+
+![](RackMultipart20231019-1-7oicog_html_328586fa4a0bf7c5.png)I ![](RackMultipart20231019-1-7oicog_html_84190d416dfc3a9f.png)
+ ssue 2: I got confirmation that project was uploaded successfully but it is not visible in my spatial worlds catalogue.
+
+![](RackMultipart20231019-1-7oicog_html_b571968925900b09.png)
+
+Solution: Delete XR, optimize the assets for spatial
+
+Issue 2: I got confirmation that project was uploaded successfully but it is not visible in my spatial worlds catalogue. Tried few times, got rid of particles/terrain, same issue persists.
+
+UPDATE: One of the versions came through, the one without the terrain.
+
+# **5. Reflection**
+
+I probably should stick to small low poly world, due to the size of the project I had to stay over night multiple times, it's kind of hard to speak about time management, I did as much as possible in given time. I should focus more on optimalization and uploading it to multiple platforms without changing its form. Perhaps add more functionality like grabbing objects. On the other hand, I'm not having many regrets, choosing to do "realistic" world, I encountered many difficulties, solving them gave me invaluable experience in short timeframe. I should be prepared much better for the upcoming projects, knowing what to focus on, what could possibly go wrong. The effect itself is not perfect but I'm quite happy, I managed to get the looks of source 1 engine which I consider not too bad for current VR capabilities. Although the full experience is only available in windows .exe. I had to butcher the project for other platforms to get it running, if I had more time, it probably would be possible to do the proper optimalisation and have the full functionality on other platforms too. Next time I will try to build the project and test it more often, for multiple platforms, to eliminate issues from the begging.
+
+In my free time I will probably work and experiment with it more, the main goal would be to make a Garry's mode map based on this project, have it uploaded on steam workshop and see if people like it.
+
+My approach is probably not the most marking-wise. But I did put extra effort into it which could be rewarded. It seems a bit difficult to measure. I have working .exe with extra features like audio, text and particles. But; implementation for other platforms is not great. Documentation and presentation is all right, it could be fancier and have more details; test table, use case scenario etc. also I was planning to create a video presentation, but I run out of time. (Seems those were not required for this assignment).
