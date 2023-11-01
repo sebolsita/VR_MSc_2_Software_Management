@@ -282,7 +282,7 @@ Performance: Project built successful, app is not working, loading and going bac
 
 Next steps: Check the settings of the project
 
-$$ Test Build 8 apk:
+## Test Build 8 apk:
 
 13.10.23 11:24
 
