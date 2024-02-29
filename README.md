@@ -36,25 +36,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#assignment-objectives">Assignment Objectives</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#installation-and-running-the-application">Getting Started</a>
-      <ul>
-        <li><a href="#windows-instructions">Windows</a></li>
-        <li><a href="#oculus-quest-standalone-instructions">Oculus Stand-Alone (Android)</a></li>
-      </ul>
-    </li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#about-the-project">About The Project</a>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
